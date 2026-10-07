@@ -1,0 +1,4 @@
+interface:
+  display_name: "Follow Angular Commit Conventions"
+  short_description: "Write and review Angular-style commit messages"
+  default_prompt: "Use $follow-angular-commit-conventions to draft a commit message for my staged changes."
