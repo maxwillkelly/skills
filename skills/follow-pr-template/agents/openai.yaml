@@ -1,0 +1,4 @@
+interface:
+  display_name: "Follow PR Template"
+  short_description: "Create pull requests using repository templates"
+  default_prompt: "Use $follow-pr-template to create a pull request using this repository’s template."
